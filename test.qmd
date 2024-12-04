@@ -1,14 +1,14 @@
 ```{r}
 library(tidyverse)
 ```
+
 ```{r}
 # Code team member 1
 ```
 
 ```{r}
-# Code team member 2
+# This is my update - from Elizabeth Grace Peterson
 ```
-
 
 ```{r}
 # Code team member 3
